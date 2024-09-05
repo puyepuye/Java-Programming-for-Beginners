@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/2.1" isTestSource="false" packagePrefix="variables" />
+      <sourceFolder url="file://$MODULE_DIR$/2.2" isTestSource="false" packagePrefix="floatingpointnumbers" />
+      <sourceFolder url="file://$MODULE_DIR$/2.3" isTestSource="false" packagePrefix="themathlib" />
+      <sourceFolder url="file://$MODULE_DIR$/2.4" isTestSource="false" packagePrefix="characters" />
+      <sourceFolder url="file://$MODULE_DIR$/2.5" isTestSource="false" packagePrefix="stringsinjava" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

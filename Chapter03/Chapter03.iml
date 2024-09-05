@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/3.1" isTestSource="false" packagePrefix="conditionalstatements2" />
+      <sourceFolder url="file://$MODULE_DIR$/3.2" isTestSource="false" packagePrefix="complexconditionals" />
+      <sourceFolder url="file://$MODULE_DIR$/3.3" isTestSource="false" packagePrefix="switcher" />
+      <sourceFolder url="file://$MODULE_DIR$/3.4" isTestSource="false" packagePrefix="introtoloops" />
+      <sourceFolder url="file://$MODULE_DIR$/3.5" isTestSource="false" packagePrefix="forloops" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

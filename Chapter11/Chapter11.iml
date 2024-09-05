@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/11.1" isTestSource="false" packagePrefix="loadinganxmlfile" />
+      <sourceFolder url="file://$MODULE_DIR$/11.2" isTestSource="false" packagePrefix="readingxml" />
+      <sourceFolder url="file://$MODULE_DIR$/11.3" isTestSource="false" packagePrefix="writingxml" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
